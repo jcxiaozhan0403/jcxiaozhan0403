@@ -9,7 +9,7 @@ https://jcxiaozhan.gitee.io/
 <a href="https://www.runoob.com/html/html5-intro.html"><img height="30" src="./images/html.svg"></a>
 <a href="https://www.runoob.com/css3/css3-tutorial.html"><img height="30" src="./images/css.svg"></a>
 <a href="https://www.runoob.com/js/js-tutorial.html"><img height="30" src="./images/JavaScript.svg"></a>
-<a href="https://jquery.com/"><img height="30" src="./images/Jquery.svg"></a>
+<a href="https://jquery.com/"><img height="30" src="./images/JQuery.svg"></a>
 <a href="http://bs4.vx.link/"><img height="30" src="./images/Bootstrap.svg"></a>
 <a href="https://cn.vuejs.org/"><img height="30" src="./images/Vue.svg"></a>
 <a href="https://baomidou.com/"><img height="30" src="./images/mysql.svg"></a>
