@@ -6,16 +6,16 @@ https://jcxiaozhan.gitee.io/
 
 ### 技术栈
 
-<a href="https://www.runoob.com/html/html5-intro.html"><img height="30" src="./images/html.svg"></a>
-<a href="https://www.runoob.com/css3/css3-tutorial.html"><img height="30" src="./images/css.svg"></a>
-<a href="https://www.runoob.com/js/js-tutorial.html"><img height="30" src="./images/JavaScript.svg"></a>
-<a href="https://jquery.com/"><img height="30" src="./images/jQuery.svg"></a>
-<a href="http://bs4.vx.link/"><img height="30" src="./images/Bootstrap.svg"></a>
-<a href="https://cn.vuejs.org/"><img height="30" src="./images/Vue.svg"></a>
-<a href="https://baomidou.com/"><img height="30" src="./images/mysql.svg"></a>
-<a href="https://spring.io/"><img height="30" src="./images/spring.svg"></a>
-<a href="https://mybatis.org/mybatis-3/zh/index.html"><img height="30" src="./images/mybatis.jpg"></a>
-<a href="https://baomidou.com/"><img height="26" src="./images/mybatis-plus.svg"></a>
+<a href="https://www.runoob.com/html/html5-intro.html" target="_blank"><img height="30" src="./images/html.svg"></a>
+<a href="https://www.runoob.com/css3/css3-tutorial.html" target="_blank"><img height="30" src="./images/css.svg"></a>
+<a href="https://www.runoob.com/js/js-tutorial.html" target="_blank"><img height="30" src="./images/JavaScript.svg"></a>
+<a href="https://jquery.com/" target="_blank"><img height="30" src="./images/jQuery.svg"></a>
+<a href="http://bs4.vx.link/" target="_blank"><img height="30" src="./images/Bootstrap.svg"></a>
+<a href="https://cn.vuejs.org/" target="_blank"><img height="30" src="./images/Vue.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img height="30" src="./images/mysql.svg"></a>
+<a href="https://spring.io/" target="_blank"><img height="30" src="./images/spring.svg"></a>
+<a href="https://mybatis.org/mybatis-3/zh/index.html" target="_blank"><img height="30" src="./images/mybatis.jpg"></a>
+<a href="https://baomidou.com/" target="_blank"><img height="26" src="./images/mybatis-plus.svg"></a>
 
 <img src="./images/code.gif" height="250">
 
