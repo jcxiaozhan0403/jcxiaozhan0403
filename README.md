@@ -2,7 +2,7 @@
 平平无奇的大三学生，一个热爱编程的摆烂人
 
 ### 个人博客
-https://jcxiaozhan.gitee.io/
+<a href="https://jcxiaozhan.gitee.io/" target="_blank">https://jcxiaozhan.gitee.io/</a>
 
 ### 技术栈
 
