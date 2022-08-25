@@ -17,7 +17,7 @@ https://jcxiaozhan.gitee.io/
 <a href="https://mybatis.org/mybatis-3/zh/index.html"><img height="30" src="./images/mybatis.jpg"></a>
 <a href="https://baomidou.com/"><img height="26" src="./images/mybatis-plus.svg"></a>
 
-<img src="./images/code.gif">
+<img src="./images/code.gif" height="250">
 
 ### 概况统计
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcxiaozhan0403&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
