@@ -17,7 +17,19 @@
 <a href="https://mybatis.org/mybatis-3/zh/index.html" target="_blank"><img height="30" src="./images/mybatis.jpg"></a>
 <a href="https://baomidou.com/" target="_blank"><img height="26" src="./images/mybatis-plus.svg"></a>
 
-<img src="https://s1.328888.xyz/2022/08/25/wZZPJ.gif" height="250">
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/tomcat.svg"></a>
+
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/nginx.svg"></a>
+
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/redis.svg"></a>
+
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/github.svg"></a>
+
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/linux.svg"></a>
+
+<a href="https://baomidou.com/" target="_blank"><img height="30" src="./images/docker.svg"></a>
+
+<img src="./images/code.gif" height="250">
 
 ### 概况统计
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcxiaozhan0403&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
