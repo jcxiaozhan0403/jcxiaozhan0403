@@ -1,5 +1,5 @@
 ## John.Cean
-平平无奇的大三学生，一个热爱编程的摆烂人
+平平无奇的大四学生，一个热爱编程的摆烂人
 
 ### 个人博客
 <a href="https://jcxiaozhan.gitee.io/" target="_blank">https://jcxiaozhan.gitee.io/</a>
